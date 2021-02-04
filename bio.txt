@@ -1,4 +1,5 @@
 Nombre: Javier 
-Edad: 666
+Edad: 24
 
-Trabajo un poquito, de vez en cuando.
+Trabajo un poquito, de tanto en tanto.
+Me gusta el Fernet.
