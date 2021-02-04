@@ -2,4 +2,9 @@ Nombre: Javier
 Edad: 24
 
 Trabajo un poquito, de tanto en tanto.
-Me gusta el Fernet.
+Me gusta un poco el Fernet.
+
+He creado aliases para git:
+co -> checkout
+st -> status
+last -> muestra el último commit.
